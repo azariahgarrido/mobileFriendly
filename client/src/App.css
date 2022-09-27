@@ -32,8 +32,15 @@ a {
   background-color: black;
   border-radius: 10px;
 }
+.navButton:hover {
+  background-color: blue;
+  color: white;
+}
+.navButton:active {
+  background-color: white;
+}
 .navTrue {
-  color: blue;
+  color: darkblue;
 }
 footer {
   background-color: blue;
@@ -73,6 +80,13 @@ footer {
   min-height: 100px;
   margin-top: 3px;
 }
+.textEdit:hover {
+  max-height: 125px;
+  min-height: 125px;
+  border-style: solid;
+  border-color: blue;
+  border-width: 1px;
+}
 
 .projectContainer {
   display: flex;
@@ -87,9 +101,23 @@ footer {
 
 .form {
   margin-bottom: 3px;
+  background-color: black;
+  color: white;
 }
 
 .downloadI {
   max-height: 100px;
   min-height: 100px;
+}
+.downloadI:hover {
+  max-height: 125px;
+  min-height: 125px;
+}
+
+.githubLinks:hover {
+  color: blue;
+  font-size: 25px;
+}
+.githubLinks:active {
+  color: darkblue;
 }
