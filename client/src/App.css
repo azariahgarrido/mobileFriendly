@@ -67,3 +67,29 @@ footer {
   text-align: center;
   flex-direction: column;
 }
+
+.textEdit {
+  max-height: 100px;
+  min-height: 100px;
+  margin-top: 3px;
+}
+
+.projectContainer {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.images {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.form {
+  margin-bottom: 3px;
+}
+
+.downloadI {
+  max-height: 100px;
+  min-height: 100px;
+}
