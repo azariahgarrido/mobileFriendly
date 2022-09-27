@@ -46,6 +46,19 @@ footer {
   background-color: blue;
   display: flex;
   justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.flatImg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.mobileB {
+  background-color: gold;
+  display: flex;
+  justify-content: center;
+  max-width: 125px;
 }
 .toe {
   max-height: 50px;
