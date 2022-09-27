@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/mobileFriendly/static/css/main.4e0bb408.css",
-    "main.js": "/mobileFriendly/static/js/main.8e26c887.js",
+    "main.css": "/mobileFriendly/static/css/main.8ec7ab1a.css",
+    "main.js": "/mobileFriendly/static/js/main.134cf959.js",
     "static/js/787.dc118305.chunk.js": "/mobileFriendly/static/js/787.dc118305.chunk.js",
     "static/media/profile.jpg": "/mobileFriendly/static/media/profile.61df119c4291d8b97e71.jpg",
+    "static/media/textEditor.jpg": "/mobileFriendly/static/media/textEditor.72217e3a5147b746597e.jpg",
+    "static/media/shoot.jpg": "/mobileFriendly/static/media/shoot.ed66fcef599c2129b017.jpg",
+    "static/media/Resume2022.pdf": "/mobileFriendly/static/media/Resume2022.61e8f49c00d9d0bba8b4.pdf",
+    "static/media/ammino.jpg": "/mobileFriendly/static/media/ammino.4e68e78edd668ce56e2f.jpg",
+    "static/media/download.png": "/mobileFriendly/static/media/download.62d5ffb46115c4303def.png",
     "index.html": "/mobileFriendly/index.html",
-    "main.4e0bb408.css.map": "/mobileFriendly/static/css/main.4e0bb408.css.map",
-    "main.8e26c887.js.map": "/mobileFriendly/static/js/main.8e26c887.js.map",
+    "main.8ec7ab1a.css.map": "/mobileFriendly/static/css/main.8ec7ab1a.css.map",
+    "main.134cf959.js.map": "/mobileFriendly/static/js/main.134cf959.js.map",
     "787.dc118305.chunk.js.map": "/mobileFriendly/static/js/787.dc118305.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e0bb408.css",
-    "static/js/main.8e26c887.js"
+    "static/css/main.8ec7ab1a.css",
+    "static/js/main.134cf959.js"
   ]
 }
