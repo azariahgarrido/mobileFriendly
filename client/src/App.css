@@ -3,13 +3,16 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  /* align-items: center; */
   text-align: center;
   color: white;
 }
+a {
+  text-decoration:none;
+  color: inherit;
+}
 
 .headerNav {
-  background-color: red;
+  background-color: blue;
   display: flex;
   justify-content: center;
   font-weight: bold;
@@ -22,8 +25,18 @@
   justify-content: center;
   margin-bottom: 3px;
 }
+.navButton {
+  margin-right: 1px;
+  margin-left: 1px;
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+}
+.navTrue {
+  color: blue;
+}
 footer {
-  background-color: green;
+  background-color: blue;
   display: flex;
   justify-content: center;
 }
@@ -32,6 +45,11 @@ footer {
   min-height: 50px;
   margin-top: 3px;
   margin-bottom: 1px;
+  border-style: solid;
+  border-color: black;
+  border-width: 1px;
+  margin-right: 1px;
+  margin-left: 1px;
 }
 
 .profile {
@@ -47,4 +65,5 @@ footer {
   justify-content: center;
   align-items: center;
   text-align: center;
+  flex-direction: column;
 }
