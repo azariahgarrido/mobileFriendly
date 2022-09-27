@@ -1,0 +1,19 @@
+{
+  "name": "mobilefriendly",
+  "version": "1.0.0",
+  "description": "responsive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azariahgarrido/mobileFriendly.git"
+  },
+  "author": "azariahgarrido",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azariahgarrido/mobileFriendly/issues"
+  },
+  "homepage": "https://github.com/azariahgarrido/mobileFriendly#readme"
+}
