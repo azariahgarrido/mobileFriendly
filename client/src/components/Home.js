@@ -25,13 +25,11 @@ import React, {useState} from 'react';
 
     return(
         <div>
-            <div>
-                <div><Header /></div>
-                <div><Navigation currentPage={currentPage} handlePageChange={handlePageChange} /></div>
+            <div className='headerNav'>
+                <Header />
+                <Navigation currentPage={currentPage} handlePageChange={handlePageChange} />
             </div>
-            <div>
-                {renderPage}
-            </div>
+            {renderPage()}
             <div>
                 <Footer />
             </div>

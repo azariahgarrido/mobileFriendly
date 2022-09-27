@@ -2,5 +2,49 @@
   background-color: black;
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  /* align-items: center; */
+  text-align: center;
   color: white;
+}
+
+.headerNav {
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 50px;
+  font-family: serif;
+  flex-direction: column;
+}
+.nav {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 3px;
+}
+footer {
+  background-color: green;
+  display: flex;
+  justify-content: center;
+}
+.toe {
+  max-height: 50px;
+  min-height: 50px;
+  margin-top: 3px;
+  margin-bottom: 1px;
+}
+
+.profile {
+  max-height: 300px;
+  min-height: 300px;
+  margin-top: 3px;
+  margin-bottom: 1px;
+}
+
+.aboutMe {
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
 }
