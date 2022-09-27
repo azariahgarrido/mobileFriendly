@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mobileFriendly/static/css/main.a9f9ab7e.css",
-    "main.js": "/mobileFriendly/static/js/main.82029ea2.js",
+    "main.css": "/mobileFriendly/static/css/main.1fd3cc36.css",
+    "main.js": "/mobileFriendly/static/js/main.fc808d73.js",
     "static/js/787.dc118305.chunk.js": "/mobileFriendly/static/js/787.dc118305.chunk.js",
     "static/media/profile.jpg": "/mobileFriendly/static/media/profile.61df119c4291d8b97e71.jpg",
     "static/media/textEditor.jpg": "/mobileFriendly/static/media/textEditor.72217e3a5147b746597e.jpg",
@@ -10,12 +10,12 @@
     "static/media/ammino.jpg": "/mobileFriendly/static/media/ammino.4e68e78edd668ce56e2f.jpg",
     "static/media/download.png": "/mobileFriendly/static/media/download.62d5ffb46115c4303def.png",
     "index.html": "/mobileFriendly/index.html",
-    "main.a9f9ab7e.css.map": "/mobileFriendly/static/css/main.a9f9ab7e.css.map",
-    "main.82029ea2.js.map": "/mobileFriendly/static/js/main.82029ea2.js.map",
+    "main.1fd3cc36.css.map": "/mobileFriendly/static/css/main.1fd3cc36.css.map",
+    "main.fc808d73.js.map": "/mobileFriendly/static/js/main.fc808d73.js.map",
     "787.dc118305.chunk.js.map": "/mobileFriendly/static/js/787.dc118305.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a9f9ab7e.css",
-    "static/js/main.82029ea2.js"
+    "static/css/main.1fd3cc36.css",
+    "static/js/main.fc808d73.js"
   ]
 }
